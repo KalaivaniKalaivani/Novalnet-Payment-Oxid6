@@ -31,7 +31,7 @@ $aModule = [
                        'en' => 'Please read the Installation Guide before you start and login to the <a href ="https://admin.novalnet.de" target="_blank" style="color: #777;text-decoration: none;border-bottom: 1px dotted #999;">Novalnet Admin Portal</a> using your merchant account. To get a merchant account, mail to sales@novalnet.de or call +49 (089) 923068320' . '<br><br>' . 'Payment plugin configurations are now available in the <a href ="https://admin.novalnet.de" target="_blank" style="color: #777;text-decoration: none;border-bottom: 1px dotted #999;">Novalnet Admin Portal</a>. Navigate to the Account -> Payment plugin configuration of your projects to configure them.' . '<br><br>' . 'Our platform offers a test mode for all requests; You can control the behaviour of the payment methods by using the <a href ="https://developer.novalnet.de/testing" target="_blank" style="color: #777;text-decoration: none;border-bottom: 1px dotted #999;">Novalnet test payment data</a>',
         ],
         'thumbnail'   => 'icon.png',
-        'version'     => '13.1.0',
+        'version'     => '13.2.0',
         'author'      => 'Novalnet AG',
         'url'         => 'https://www.novalnet.de',
         'email'       => 'technic@novalnet.de',
