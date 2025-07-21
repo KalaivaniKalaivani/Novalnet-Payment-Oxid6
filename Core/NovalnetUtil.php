@@ -34,7 +34,7 @@ class NovalnetUtil
       *
       * @var string
       */
-    public static $sNovalnetVersion = '13.1.0';
+    public static $sNovalnetVersion = '13.2.0';
 
     /**
      * Novalnet End Point
